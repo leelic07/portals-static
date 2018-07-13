@@ -1,0 +1,23 @@
+body {
+  transition: all linear .3s;
+}
+header.header-box img {
+  width: 100%;
+}
+nav.navbar {
+  background: #3076bc;
+  padding: 0 9%;
+}
+nav.navbar .navbar-nav .nav-item {
+  float: left;
+  width: 35%;
+  height: 60px;
+  line-height: 60px;
+}
+nav.navbar .navbar-nav .nav-item:hover {
+  background: #195998;
+}
+nav.navbar .navbar-nav .nav-item .nav-link {
+  padding: 0;
+  width: 100%;
+}
